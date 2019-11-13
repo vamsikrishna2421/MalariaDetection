@@ -4,4 +4,4 @@ source proj_env/bin/activate
 pip install pandas scikit-learn joblib opencv-python
 
 Download dataset from 
-wget https://doc-0s-10-docs.googleusercontent.com/docs/securesc/52o02h7n1mh113anluraq4kpk4tu7fc0/qfe97p5lkmok7kgvpu23daqlsogcn87l/1573639200000/05238359098448358793/14189936248225386710/1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz?e=download&authuser=0&nonce=89f2hcl8qs8vk&user=14189936248225386710&hash=3a40pe8i4en4f396hkadgu52o9muoore
+wget ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/cell_images.zip
